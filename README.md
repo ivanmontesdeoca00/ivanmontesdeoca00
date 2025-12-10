@@ -1,4 +1,4 @@
-# ¡Hola! Soy [Ivan K. Montes de Oca] 👋
+# ¡Hola! Soy Ivan K. Montes de Oca 👋
 
 Bienvenido a mi perfil de GitHub. Soy un desarrollador apasionado por la tecnología, especializado en desarrollo web full-stack. Me gusta crear aplicaciones interactivas y resolver problemas con código.
 
@@ -18,8 +18,8 @@ Estoy siempre aprendiendo y mejorando mis skills. ¡Si ves algo interesante, hag
 
 ¡Hablemos! Me encanta conectar con gente de la comunidad tech y ampliar el circulo.
 
-- **Email**: [ivanmontesdeoca00@icloud.com] 📧
-- **LinkedIn**: [https://www.linkedin.com/in/iv%C3%A1n-kevin-montes-de-oca-74986a24b/] 💼
+- **Email**: ivanmontesdeoca00@icloud.com 📧
+- **LinkedIn**: https://www.linkedin.com/in/iv%C3%A1n-kevin-montes-de-oca-74986a24b/ 💼
 
 Si tienes preguntas sobre mis proyectos o quieres colaborar, ¡envíame un mensaje!
 
@@ -29,3 +29,4 @@ Si tienes preguntas sobre mis proyectos o quieres colaborar, ¡envíame un mensa
 
 
 ⭐ Si te gusta mi perfil, dale una estrella a mis repositorios. ¡Gracias por visitar! 🙌
+
